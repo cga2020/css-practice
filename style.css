@@ -1,0 +1,18 @@
+.box {width:90px;
+     height: 70px;
+     display:block;
+     font-family:Arial, Helvetica, sans-serif;
+     color:white;
+     font-size: 18px;
+     font-weight: bold;
+     text-align: center;
+     margin:10px 25px auto 900px;
+     align-content: center;
+     justify-content: center;
+     padding: auto;}
+  
+.green {background-color:green;}
+
+.red {background-color:red;}
+
+.orange {background-color:orange;}
