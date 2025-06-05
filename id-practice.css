@@ -1,0 +1,21 @@
+.box {width:90px;
+     height:100px;
+     font-family:Arial, Helvetica, sans-serif;
+     margin: 15px auto 30px 20px;
+     align-content:center;
+     text-align:center;}
+
+#first {background-color:blueviolet;
+       font-size: large;
+       font-weight:bold;
+        border-radius:19px;}
+
+#second {background-color:aqua;
+        font-size:medium;
+        font-weight:500;
+        border-radius:12px;}
+
+#third {background-color:bisque;
+       font-size:small;
+       font-weight:200;
+       border-radius:15px;}
