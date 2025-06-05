@@ -16,3 +16,18 @@
 .red {background-color:red;}
 
 .orange {background-color:orange;}
+
+#start {background-color:blue;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: medium;
+        color:white;
+        text-align:center;
+        border-radius:18px;}
+
+#pause {background-color:brown;
+       font-family:Arial, Helvetica, sans-serif;
+       font-size:medium;
+       color:black;
+       text-align:center;
+       border-radius:25px;
+       }
