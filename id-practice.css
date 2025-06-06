@@ -20,9 +20,21 @@
        font-weight:200;
        border-radius:15px;}
 
-h2, p {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+h2, .mainp {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       color:red;
       padding: 40px 50px 40px 50px;
       margin: 20px 40px 20px 40px;
       font-size:medium;
       text-decoration: line-through;}
+
+#third:hover {background-color:rgb(130, 130, 196);
+             color:red;
+             border-style:dotted;
+             cursor: pointer;}
+
+.section2 p {color:brown;}
+
+.section3 em {font-weight:bold;}
+
+.section1 strong {margin-right: 20px;
+                  margin-left: 30px;}
